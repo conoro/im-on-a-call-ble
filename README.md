@@ -11,7 +11,7 @@ LICENSE: Apache 2.0
 * When button/led is set on, it broadcasts 1 in BLE ManufacturerData
 * When button/led is set off, it broadcasts 0 in BLE ManufacturerData
 * A matching device on my home office door (either a [Pixl.js](http://www.espruino.com/Pixl.js) or ESP32 running [Espruino](https://espruino.com)) scans for those messages. 
-* When it sees that the button is on, it scrolls a message on an attached MAX7219 LED Matrix display
+* When it sees that the button is on, it scrolls a message on an attached [MAX7219](https://www.aliexpress.com/wholesale?catId=0&SearchText=MAX7219+) LED Matrix display
 * My kids then know not to come barging in :-)
 
 * A variation using a [Bangle.js](https://banglejs.com) is also included and is in the video
