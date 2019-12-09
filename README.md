@@ -16,7 +16,8 @@ LICENSE: Apache 2.0
 
 * A variation using a [Bangle.js](https://banglejs.com) is also included and is in the video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ozK7g2NfCEI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Bangle.js I'm On A Call](https://img.youtube.com/vi/ozK7g2NfCEI/0.jpg)](https://www.youtube.com/watch?v=ozK7g2NfCEI)
+
 
 [Phone icon](https://icons8.com/icons/set/phone) by [Icons8](https://icons8.com) 
 
